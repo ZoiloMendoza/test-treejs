@@ -54,7 +54,7 @@ export const UI = () => {
           className="pointer-events-auto mt-10 ml-10"
           href="https://lessons.wawasensei.dev/courses/react-three-fiber"
         >
-          <img className="w-20" src="/images/wawasensei-white.png" />
+          {/* <img className="w-20" src="/images/wawasensei-white.png" /> */}
         </a>
         <div className="w-full overflow-auto pointer-events-auto flex justify-center">
           <div className="overflow-auto flex items-center gap-4 max-w-full p-10">
@@ -89,16 +89,16 @@ export const UI = () => {
         <div className="relative">
           <div className="bg-white/0  animate-horizontal-scroll flex items-center gap-8 w-max px-8">
             <h1 className="shrink-0 text-white text-10xl font-black ">
-              Wawa Sensei
+              Duo Tech
             </h1>
             <h2 className="shrink-0 text-white text-8xl italic font-light">
-              React Three Fiber
+            web invitations
             </h2>
             <h2 className="shrink-0 text-white text-12xl font-bold">
-              Three.js
+              Alison
             </h2>
             <h2 className="shrink-0 text-transparent text-12xl font-bold italic outline-text">
-              Ultimate Guide
+              UI/UX
             </h2>
             <h2 className="shrink-0 text-white text-9xl font-medium">
               Tutorials
@@ -115,16 +115,16 @@ export const UI = () => {
           </div>
           <div className="absolute top-0 left-0 bg-white/0 animate-horizontal-scroll-2 flex items-center gap-8 px-8 w-max">
             <h1 className="shrink-0 text-white text-10xl font-black ">
-              Wawa Sensei
+            Duo Tech
             </h1>
             <h2 className="shrink-0 text-white text-8xl italic font-light">
-              React Three Fiber
+            web invitations
             </h2>
             <h2 className="shrink-0 text-white text-12xl font-bold">
-              Three.js
+              Alison
             </h2>
             <h2 className="shrink-0 text-transparent text-12xl font-bold italic outline-text">
-              Ultimate Guide
+              UI/UX
             </h2>
             <h2 className="shrink-0 text-white text-9xl font-medium">
               Tutorials
